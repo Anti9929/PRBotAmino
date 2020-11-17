@@ -11,12 +11,12 @@ for x in line:
 	sys.stdout.flush()
 	time.sleep(0.1)
 
-print(Fore.GREEN + '\nEnter your email:' + Fore.YELLOW, end='')
-email = input()
-print(Fore.GREEN + 'Enter your password:' + Fore.YELLOW, end='')
-password = input()
-print(Fore.GREEN + 'Enter your message:' + Fore.YELLOW, end='')
-ad = input()
+print(Fore.RED + '\nEnter your email:' + Fore.YELLOW, end='')
+email = input( )
+print(Fore.RED + 'Enter your password:' + Fore.YELLOW, end='')
+password = input( )
+print(Fore.RED + 'Enter your message:' + Fore.YELLOW, end='')
+ad = input( )
 
 lis = []
 
@@ -27,8 +27,8 @@ subclients = client.sub_clients()
 for name, id in zip(subclients.name, subclients.comId):
 	print(name, id)
 
-print(Fore.GREEN + 'Enter communityId: ' + Fore.YELLOW, end='')
-comId = input()
+print(Fore.RED + 'Enter communityId: ' + Fore.YELLOW, end='')
+comId = input( )
 
 subclient = amino.SubClient(comId=comId, profile=client.profile)
 
