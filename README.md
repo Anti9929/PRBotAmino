@@ -10,3 +10,8 @@
 - pkg install python
 - pip install Amino.py
 - pip install colorama
+
+## Windows
+- https://www.python.org
+- pip install Amino.py
+- pip install colorama
