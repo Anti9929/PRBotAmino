@@ -18,3 +18,5 @@
 - pip install Amino.py
 - pip install colorama
 - cd /path/to/PRBotAmino-main
+
+## Удачи!
