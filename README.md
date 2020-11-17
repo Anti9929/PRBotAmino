@@ -21,6 +21,6 @@
 
 ## Удачи!
 
-**Support:
+Support:
 
 **XMR: 49yXb2ifz3V5hg1DmmsNhYVvuMebmcRVDaoEL6CJtBRe2qLZtzXmKQegnNQTiTagKXX3X47whyeiRH1zjLJ3vKFdMvDypho
