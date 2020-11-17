@@ -17,4 +17,4 @@
 - Тебе нужно с https://www.python.org установить Python, желательно версию 3.6
 - pip install Amino.py
 - pip install colorama
-- cd PRBotAmino-main
+- cd /path/to/PRBotAmino-main
