@@ -7,7 +7,7 @@ init()
 line = "PRBOTAMINO. SCRIPT BY FATZELF"
 
 for x in line:
-	print(Fore.BLUE + x, end='')
+	print(Fore.GREEN + x, end='')
 	sys.stdout.flush()
 	time.sleep(0.1)
 
