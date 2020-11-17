@@ -10,8 +10,11 @@
 - pkg install python
 - pip install Amino.py
 - pip install colorama
+- cd PRBotAmino
+- python bot.py
 
 ## Windows
-- https://www.python.org
+- Тебе нужно с https://www.python.org установить Python
 - pip install Amino.py
 - pip install colorama
+- cd PRBotAmino-main
