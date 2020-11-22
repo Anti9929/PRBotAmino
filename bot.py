@@ -16,7 +16,7 @@ email = input( )
 print(Fore.RED + 'Enter your password:' + Fore.YELLOW, end='')
 password = input( )
 print(Fore.RED + 'Enter your message:' + Fore.YELLOW, end='')
-ad = input( )
+ad = input()
 
 lis = []
 
